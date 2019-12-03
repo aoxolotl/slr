@@ -1,0 +1,10 @@
+checkpoints
+data
+dc_img
+runs
+*.swp
+*.swo
+__pycache__
+*.pyc
+*.idea
+*.ipynb_checkpoints
