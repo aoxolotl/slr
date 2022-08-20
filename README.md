@@ -1,5 +1,7 @@
 # Unsupervised techniques for sign language processing 
 
+See https://github.com/aoxolotl/sl_cluster for some initial results
+
 ## Abstract
 Despite the progress in natural language processing of spoken languages, deep
 learning research for sign languages is still in a very nascent stage. 
